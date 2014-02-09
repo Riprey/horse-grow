@@ -1,0 +1,48 @@
+body {
+	background-color: #FFCCFF;
+}
+#container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#banner {
+	width: 900px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#maingame {
+	height: 350px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#menu {
+	overflow: auto;
+	font-size: 14px;
+	float: right;
+	height: 320px;
+	width: 400px;
+}
+#display {
+}
+#boop {
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 300px;
+	cursor: pointer;
+	position: absolute;
+}
+#stats {
+	clear: both;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: center;
+	font-family: sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+}
+#newsTicker {
+	font-size: 20px;
+}
